@@ -1,4 +1,4 @@
-This script is designed to predict customer churn using a machine learning model, with steps for importing, preprocessing, training, and analyzing data. The results are saved in a format that can be imported into Power BI for visualization and business insights. Below is a concise description of the process:
+This script was designed to predict customer churn using a machine learning model, with steps for importing, preprocessing, training, and analyzing data. The results were saved in a format that can be imported into Power BI for visualization and business insights. Below is a concise description of the process:
 
 Steps and what they mean
 
